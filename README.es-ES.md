@@ -6,7 +6,7 @@
 Este repositorio contiene ejemplos basados en JavaScript de muchos
 algoritmos y estructuras de datos populares.
 
-Cada algoritmo y estructura de datos tiene su propio LÉAME con explicaciones relacionadas y
+Cada algoritmo y estructura de datos tiene su propio LÉAME (README) con explicaciones relacionadas y
 enlaces para lecturas adicionales (incluyendo algunas a vídeos de YouTube).
 
 _Léelo en otros idiomas:_
